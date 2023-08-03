@@ -6,9 +6,7 @@ This website is to be used by a Marketing Firm, meant to follow accessability st
 
 ## Screenshots
 
-![screenshot1](<Screenshot (22).png>)
-![screenshot2](<Screenshot (23).png>)
-![screenshot3](<Screenshot (24).png>)
+![screenshot](Assets/01-html-css-git-homework-demo.png)
 
 ## Link
 
